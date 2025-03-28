@@ -127,6 +127,11 @@ An object containing references to key documentation URLs.
 - **Type**: [URL]
 - **Description**: URL describing how releases are planned, prepared, and published.
 
+### `project.documentation.release-support-guide` (optional)
+
+- **Type**: [URL]
+- **Description**: URL describing how releases are supported.
+
 ### `project.documentation.signature-verification` (optional)
 
 - **Type**: [URL]
